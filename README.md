@@ -27,7 +27,7 @@
   <img align="center" alt="Yasmin-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Yasmin-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
 
-  <img align="right" alt="Yasmin-anime-gif" src="https://media.discordapp.net/attachments/498986490504675331/875227095779913798/ys-anime-gif.gif?width=300&height=300">
+  <img align="right" alt="Yasmin-anime-gif" src="https://media.discordapp.net/attachments/498986490504675331/875227095779913798/ys-anime-gif.gif?width=150&height=150">
 </div>
 
   ##
