@@ -35,6 +35,5 @@
   <a href="https://instagram.com/yasminhernandes.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/yasminhernands" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://br.pinterest.com/yasminhernandes_s" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
-    
 </div>
   
