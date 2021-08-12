@@ -1,4 +1,5 @@
-#### Hi, I'm Yasmin Hernandes, a front-end web development student looking for opportunities to always learn more and develop myself.
+### Hi, I'm Yasmin Hernandes, 
+#### a front-end web development student looking for opportunities to always learn more and develop myself.
 ##
 <div>
   <a href="https://github.com/yasminhernandes">
