@@ -18,7 +18,7 @@
   <img align="center" alt="Yasmin-Java-Basic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Yasmin-Postgres-Basic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"><br>
 
-  <h4>Interested in</h4>
+  <h3>Interested in</h3>
 
   <img align="center" alt="Yasmin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yasmin-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
