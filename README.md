@@ -2,11 +2,7 @@
 
   ##
 
-<div style="width: 100%;
-	    display: flex;
-	    aling-items: center;
-	    justify-content: space-around;
-	    ">
+<div>
   <a href="https://github.com/yasminhernandes">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminhernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&layout=compact&langs_count=7&theme=dracula"/>
