@@ -1,7 +1,7 @@
 <h3> Hi, I'm Yasmin Hernandes, a front-end web development student looking for opportunities to always learn more and develop myself.<h3>
 
   ##	
-  <h1><a href="https://yasminhernandes.github.io" target="_blank">Meu site</a></h1>
+  
 <div>
   <a href="https://github.com/yasminhernandes">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminhernandes&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@
 </div>
 
   ##
-  
+  <h3><a href="https://yasminhernandes.github.io" target="_blank">Acessar meu site</a></h3>
 <div> 
   <a href="https://www.linkedin.com/in/yasminhernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasminhernandesjobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
