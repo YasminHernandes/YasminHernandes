@@ -1,4 +1,4 @@
-<h3> Hi, I'm Yasmin Hernandes, a front-end web development student looking for opportunities to always learn more and develop myself.<h3>
+<h3> Hi, I'm <a href="https://yasminhernandes.vercel.app"> <strong>Yasmin Hernandes </strong></a>, a front-end web development student looking for opportunities to always learn more and develop myself.<h3>
 
   ##
 
