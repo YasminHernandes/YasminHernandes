@@ -2,8 +2,7 @@
 
   ##
 
-<div style="
-  display=flex; align-items=center; justify-content=center">
+<div>
   <a href="https://github.com/yasminhernandes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasminhernandes&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&layout=compact&langs_count=7&theme=calm"/>
