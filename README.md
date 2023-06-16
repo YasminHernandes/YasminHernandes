@@ -3,6 +3,7 @@
   ##
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasminhernandes.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yasminhernandes)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yasminhernandesjobs@gmail.com)
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
   <a href="https://github.com/yasminhernandes">
