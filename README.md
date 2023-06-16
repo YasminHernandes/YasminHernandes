@@ -1,4 +1,5 @@
 <h3> Olá, me chamo <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, sou Desenvolvedora Web Front-end Junior. </h3>
+<img align="right" alt="anime-gif" src="https://media.discordapp.net/attachments/498986490504675331/875227095779913798/ys-anime-gif.gif?width=150&height=150">
 
   ##
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasminhernandes.vercel.app)
@@ -12,14 +13,7 @@
 
   ##
 
-<div style="display: flex; flex-direction: column; justify-content: space-between;">
+<div>
 
 [![Yasmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminHernandes&theme=swift)](https://github.com/anuraghazra/github-readme-stats)   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=swift&show_icons=true)
 </div>
-    
-  
-  ##
-
-  <img align="right" alt="anime-gif" src="https://media.discordapp.net/attachments/498986490504675331/875227095779913798/ys-anime-gif.gif?width=150&height=150">
-</div>
-  
