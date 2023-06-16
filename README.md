@@ -1,6 +1,8 @@
 <h3> Hi, I'm <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, a front-end web development student looking for opportunities to always learn more and develop myself.<h3>
 
   ##
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasminhernandes.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasminhernandes)
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
   <a href="https://github.com/yasminhernandes">
