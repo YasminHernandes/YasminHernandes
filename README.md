@@ -7,12 +7,7 @@
     
   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=swift&show_icons=true)
 
-</div>
-    
-<div align="left">
-  
   [![Yasmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminHernandes&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
     
   ##
