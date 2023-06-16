@@ -2,15 +2,11 @@
 
   ##
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
   <a href="https://github.com/yasminhernandes">
 
-  <div style="width: 50%">
-
   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=swift&show_icons=true)
-    
-  </div>
-
+  
   [![Yasmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminHernandes&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
