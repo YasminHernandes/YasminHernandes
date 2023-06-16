@@ -1,4 +1,4 @@
-<h3> Olá, me chamo <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, sou Desenvolvedora Web Front-end Junior. </h3>h3>
+<h3> Olá, me chamo <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, sou Desenvolvedora Web Front-end Junior. </h3>
 
   ##
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yasminhernandes.vercel.app)
