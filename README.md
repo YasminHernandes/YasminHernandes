@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/yasminhernandes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasminhernandes&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&layout=compact&langs_count=7&theme=calm"/>
+  [![Yasmin top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminHernandes&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
   ##
