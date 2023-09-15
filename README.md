@@ -8,7 +8,7 @@
 
 <h4>
   <h3>Tecnologies 🚀</h3>
-  React JS | Typescript | Javascript | HTML | CSS | SASS | API Rest | Axios 
+  React | Typescript | Styled-components | SASS | HTML | CSS | Javascript | API Rest | Axios | Angular 8+ 
 </h4>
 
   ##
