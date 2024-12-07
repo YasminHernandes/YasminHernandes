@@ -14,8 +14,8 @@
   ##
 
 <div>
+  
+![yasminhernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&layout=compact)![yasminhernandes's Stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&count_private=true)</br>
+![yasminhernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasminhernandes&theme=dark&hide_border=false)
 
-![yasminhernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&layout=compact)</br>
-![yasminhernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasminhernandes&theme=dark&hide_border=false)</br>
-![yasminhernandes's Stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&count_private=true)
 </div>
