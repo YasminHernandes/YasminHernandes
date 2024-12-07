@@ -15,5 +15,7 @@
 
 <div>
 
-[![Yasmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminHernandes&theme=swift)](https://github.com/anuraghazra/github-readme-stats)   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=swift&show_icons=true)
+![yasminhernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&layout=compact)</br>
+![yasminhernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasminhernandes&theme=dark&hide_border=false)</br>
+![yasminhernandes's Stats](https://github-readme-stats.vercel.app/api?username=yasminhernandes&theme=dark&show_icons=true&hide_border=false&count_private=true)
 </div>
