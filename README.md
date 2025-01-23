@@ -1,4 +1,4 @@
-<h3> Olá, me chamo <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, e sou Desenvolvedora Front-end. </h3>
+<h3> Hi! I'm <a href="https://yasminhernandes.vercel.app" target="_blank"><em>Yasmin Hernandes</em></a>, and i'm Software Engineer Frontend </h3>
 <img align="right" alt="anime-gif" src="https://media.discordapp.net/attachments/498986490504675331/875227095779913798/ys-anime-gif.gif?width=150&height=150">
 
   ##
@@ -8,7 +8,7 @@
 
 <h4>
   <h3>Tecnologies 🚀</h3>
-  React | Typescript | Styled-components | SASS | HTML | CSS | Javascript | API Rest | Axios | Angular 8+ 
+  Angular 14+ | Tailwind | React | Typescript | Styled-components | SASS | HTML | CSS | Javascript | API Rest | Axios | 
 </h4>
 
   ##
